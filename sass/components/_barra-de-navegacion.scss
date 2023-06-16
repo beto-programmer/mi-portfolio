@@ -1,0 +1,11 @@
+.barra-de-navegacion{
+    display: flex;
+    gap: 1em;
+    &__items{
+        list-style: none;
+    }
+}
+a{
+    text-decoration: none;
+    color: white;
+}
