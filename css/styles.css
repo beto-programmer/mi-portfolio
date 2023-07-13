@@ -79,4 +79,8 @@ a {
   color: white;
 }
 
+.barra-de-navegacion__items:hover {
+  scale: 1.2;
+}
+
 /*# sourceMappingURL=styles.css.map */
