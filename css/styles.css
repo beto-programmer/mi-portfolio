@@ -76,6 +76,7 @@
 }
 .barra-de-navegacion__items {
   list-style: none;
+  transition: transform 0.5s ease;
 }
 
 a {
@@ -84,7 +85,7 @@ a {
 }
 
 .barra-de-navegacion__items:hover {
-  scale: 1.2;
+  transform: scale(1.2);
 }
 
 /*# sourceMappingURL=styles.css.map */
