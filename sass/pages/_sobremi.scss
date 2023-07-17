@@ -1,0 +1,11 @@
+.sobremi-seccion {
+    background-color: rgba(7, 128, 184, 0.699);
+    padding: 1em;
+    &__titulo{
+        color:  rgba(0, 86, 126, 0.76);
+        font-size: 1.3rem;
+        background-color: rgb(255, 255, 255);
+        border-radius: 10px;
+        padding: 1em;
+    }
+}
